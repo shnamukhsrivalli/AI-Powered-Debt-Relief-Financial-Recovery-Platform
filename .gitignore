@@ -1,0 +1,25 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Python cache
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment variables
+.env
+
+# Database file
+*.db
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# VS Code or IDE config
+.vscode/
+.idea/
+.agents/
+.gemini/
